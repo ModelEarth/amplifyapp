@@ -1,3 +1,4 @@
+Our related notes: [model.earth/amplify/AWS/](https://model.earth/amplify/AWS/)  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
